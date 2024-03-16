@@ -1,0 +1,14 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore ccls-cache directory
+.ccls-cache
+
+# Ignore ctags
+tags
